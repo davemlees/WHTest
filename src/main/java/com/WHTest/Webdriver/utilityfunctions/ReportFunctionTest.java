@@ -31,9 +31,7 @@ package com.WHTest.Webdriver.utilityfunctions;
                 details = new ArrayList<ResultTest>();
             }
 
-            //    CommonFunctionTest comFunc = new CommonFunctionTest();
-
-
+         
             //  ##############################################################
             //  rep_GetScreenshot
             //
